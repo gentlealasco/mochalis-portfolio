@@ -13,7 +13,7 @@ function Footer() {
         </li>
         <li>
           <i className="fab fa-tiktok"></i>
-          <span>@Mocahlis Kitchen</span>
+          <span>&#64;Mocahlis Kitchen</span>
         </li>
         <li>
           <i className="fab fa-instagram"></i>
@@ -21,7 +21,7 @@ function Footer() {
         </li>
       </ul>
       <p className="copyright">
-        © {new Date().getFullYear()} Mocahlis Kitchen. All rights reserved.
+        &copy; {new Date().getFullYear()} Mocahlis Kitchen. All rights reserved.
       </p>
     </footer>
   )
