@@ -20,6 +20,10 @@ function Footer() {
           <span>Mocahlis Kitchen</span>
         </li>
       </ul>
+      <div className="footer-address">
+        <h4>Address</h4>
+        <p>NO 3 Goldie Close, Calabar.</p>
+      </div>
       <p className="copyright">
         &copy; {new Date().getFullYear()} Mocahlis Kitchen. All rights reserved.
       </p>
